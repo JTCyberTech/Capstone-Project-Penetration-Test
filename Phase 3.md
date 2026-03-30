@@ -34,9 +34,15 @@ Nessus is an enterprise network vulnerability scanner that identifies technical 
 - Once the encryption password for data at rest is lost, there is no way of recovering it.
 
 **Nessus basic vulnerability Scan Screenshot:**  
+
+<img width="809" height="620" alt="image" src="https://github.com/user-attachments/assets/41183555-5070-4a31-b61d-22ac8fe52e4d" />
+
 Source: (Jon Good) <https://www.youtube.com/watch?v=x87gbgQD4eg&t=569s>
 
 **Nessus Port Scan options Screenshot:**  
+
+<img width="758" height="399" alt="image" src="https://github.com/user-attachments/assets/ba3023e8-27d8-48e5-ac85-3ae3679a493e" />
+
 Source: (Tenable Product Education), <https://www.youtube.com/watch?v=ntJbLPhX58s>
 
 ---
@@ -66,9 +72,16 @@ OpenVAS, or Open Vulnerability Assessment System, is a free software that provid
 - Limitation on OS support only runs on Unix and Linux systems. Doesn’t support Windows or macOS users.
 
 **Screenshot of OpenVAS scanned results:**  
+
+<img width="764" height="532" alt="image" src="https://github.com/user-attachments/assets/ee84567a-73ef-4f1e-9557-f4c052087941" />
+
 Source: rapid7 <https://www.rapid7.com/blog/post/2016/11/22/how-to-use-openvas-to-audit-the-security-of-your-network-22/>
 
 **Screenshot of OpenVAS scanned downloaded report PDF:**  
+
+<img width="981" height="501" alt="image" src="https://github.com/user-attachments/assets/1168d3ca-7947-4c8b-853e-e2867b127328" />
+
+
 Source: OPENVAS <https://www.youtube.com/watch?v=G9MXllD9Vt8>
 
 ---
@@ -97,6 +110,10 @@ Acunetix is a scalable, quick, and powerful vulnerability scanner with a high le
 - The price of the tool can be expensive for smaller companies. The price can be from $4500 to $26600.
 
 **Screenshot of Acunetix report of the impact:**  
+
+<img width="711" height="522" alt="image" src="https://github.com/user-attachments/assets/6e772bdd-4439-40e3-8652-a4d8342e1992" />
+
+
 Source: acunetix <https://www.acunetix.com/product/acunetix360/>
 
 ---
@@ -125,9 +142,17 @@ Wireshark is a free and open-source powerful packet-capturing tool that can deep
 - It can be a very long and tedious wait to capture and analyze all the packages.
 
 **Screenshot of Wireshark Protocol Hierarchy Statistics Has Data:**  
+
+<img width="834" height="400" alt="image" src="https://github.com/user-attachments/assets/37d15631-8370-4dc3-9cfe-8b5b1558f838" />
+
+
 Source: Laura Chappell <https://www.youtube.com/watch?v=0wQmwbD1uls&t=217s>
 
 **Screenshot of Wireshark Capturing packets:**  
+
+<img width="791" height="412" alt="image" src="https://github.com/user-attachments/assets/6f4bfa46-38a2-4d75-bd0f-463ee2b7924a" />
+
+
 Source: Laura Chappell <https://www.youtube.com/watch?v=0wQmwbD1uls&t=217s>
 
 ---
@@ -160,4 +185,8 @@ Burp Suite is a Web penetration testing framework based on Java. It helps users 
 - Price: The Enterprise edition can be expensive, 6000 per year. And the professional is 450 for one user per year.
 
 **Screenshot of Burp Suite scanned results:**  
+
+<img width="929" height="574" alt="image" src="https://github.com/user-attachments/assets/9958b6ba-bf35-4315-8dc9-45ac5e0a7a43" />
+
+
 Source: portswigger <https://portswigger.net/organizations/security-reporting>
