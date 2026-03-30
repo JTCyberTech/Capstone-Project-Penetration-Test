@@ -7,7 +7,7 @@ Search engines such as Google and Bing are powerful tools needed to conduct a pa
 
 **Usage:**  
 Search Artemis Gas INC and look up information that can be found and look up their website. Can use Google Dorking, such as search `site:Artemis Gas INC ext:(pdf | CSV | xls| txt)`  
-[](https://www.bing.com/)
+(https://www.bing.com/)
 
 ---
 
@@ -18,7 +18,7 @@ Another search engine that was originally created focused on IT security. OSINT 
 
 **Usage:**  
 Search Artemis Gas INC on all the framework sections and see what I can find that Google/Bing can’t be found. Can try to check its IP addresses and domain name.  
-[](https://osintframework.com/)
+(https://osintframework.com/)
 
 ---
 
@@ -28,7 +28,7 @@ Search Artemis Gas INC on all the framework sections and see what I can find tha
 Nslookup is a name server lookup that can be used on the Kali Linux command line to find DNS, IP address, or other records for DNS.
 
 **Usage:**  
-Using the Kali Linux command line, type in `nslookup (Artemis’s website),` and it will show the IP address in IPv4 and IPv6. We can also type in `nslookup` on the command line, then `set type=ns`, then `Artemis’s website` this will give all the various name service and their IP addresses associated with Artemis. Or you can use the website [](https://www.nslookup.io/)
+Using the Kali Linux command line, type in `nslookup (Artemis’s website),` and it will show the IP address in IPv4 and IPv6. We can also type in `nslookup` on the command line, then `set type=ns`, then `Artemis’s website` this will give all the various name service and their IP addresses associated with Artemis. Or you can use the website (https://www.nslookup.io/)
 
 ---
 
@@ -38,7 +38,7 @@ Using the Kali Linux command line, type in `nslookup (Artemis’s website),` and
 A query and response protocol that provides registration information for internet properties. We can gather the company's email address, phone number, and owner's name if there is no whoisguard protection.
 
 **Usage:**  
-Using the Kali Linux command line, type in `whois (Artemis’s website),` and it will show information such as the creation date, updated date, and expiration date of the website as well as a registrant email that can be contacted with. If Artemis didn’t use whoisguard protection, it is good to inform them. Or you can use the website [](https://www.whois.com/)
+Using the Kali Linux command line, type in `whois (Artemis’s website),` and it will show information such as the creation date, updated date, and expiration date of the website as well as a registrant email that can be contacted with. If Artemis didn’t use whoisguard protection, it is good to inform them. Or you can use the website (https://www.whois.com/)
 
 ---
 
@@ -49,7 +49,7 @@ It is a global Internet service provider that offers internet transit, tools, an
 
 **Usage:**  
 Search Artemis Gas INC on the search bar and view the ASN and IP results range.  
-[](https://bgp.he.net/)
+(https://bgp.he.net/)
 
 ---
 
@@ -60,7 +60,7 @@ It is an OSINT and graphical link analysis tool that gathers and connects inform
 
 **Usage:**  
 Using the Paterva CTAS CE on Maltego, create a domain and put Artemis Gas INC’s website as the domain. Then we can create a graph of other domains and sub-domain and the mail services that tell us where the mail is being handled. We can find out all the top-level domain associated with Artemis. We can also convert the domain into IP address sources, and with the email address, we can use them to find out the email addresses associated with those IP addresses.  
-[](https://www.maltego.com/)
+(https://www.maltego.com/)
 
 ---
 
@@ -71,7 +71,7 @@ DNSDumpster is a trusted open-source security vulnerability scanner and network 
 
 **Usage:**  
 Search Artemis Gas INC’s website on the search bar, view all the IP addresses, and export it into a CSV file. Then maybe put all the IP addresses into a mass scanner and scan all the IP addresses.  
-[](https://dnsdumpster.com/)
+(https://dnsdumpster.com/)
 
 ---
 
@@ -82,7 +82,7 @@ A search engine for internet-connected devices. It’s an internet scanner that 
 
 **Usage:**  
 Search `org: “Artemis Gas INC” port:21,445,3389,5900` on Shodan. Port 21 for FTP, 445 for SMB, 3389 for RDP, and 5900 for VNC. To scan if there is any of those port open.  
-[](https://www.shodan.io/)
+(https://www.shodan.io/)
 
 ---
 
@@ -103,7 +103,7 @@ A search engine that provides hosts and creates aggregate reports on how the web
 
 **Usage:**  
 Search Artemis Gas INC’s website on the search bar, and view IPv4 and Certificates.  
-[](https://search.censys.io/)
+(https://search.censys.io/)
 
 ---
 
@@ -126,7 +126,7 @@ A tool that targets the domain API and live domain API. BuiltWith can use it to 
 
 **Usage:**  
 Search Artemis Gas INC’s website on the search bar and look at the detailed Technology profile, we will have an understanding of what the tech stack of Artemis will be and can maybe find some vulnerabilities within the tech stack.  
-[](https://builtwith.com/)
+(https://builtwith.com/)
 
 ---
 
@@ -137,7 +137,7 @@ An email finder tool that can search for the company and its employees’ email 
 
 **Usage:**  
 Search Artemis Gas INC’s website on the search bar and look for email addresses. Using email addresses attackers can use them for phishing attacks.  
-[](https://hunter.io/)
+(https://hunter.io/)
 
 ---
 
@@ -148,7 +148,7 @@ A tool that can discover any hidden, sensitive, or vulnerable files and routes i
 
 **Usage:**  
 Search Artemis Gas INC’s website on the search bar. We will be able to find any hidden files that search engines wouldn’t be able to find easily.  
-[](https://pentest-tools.com/website-vulnerability-scanning/discover-hidden-directories-and-files)
+(https://pentest-tools.com/website-vulnerability-scanning/discover-hidden-directories-and-files)
 
 ---
 
@@ -159,4 +159,4 @@ A tool with multiple tools such as Sublister, DNScan, Lepus, and Amass to search
 
 **Usage:**  
 Search Artemis Gas INC’s website on the search bar. Another tool that can help find and check the domain, sub-domain, and IP addresses for Artemis.  
-[](https://www.nmmapper.com/sys/tools/subdomainfinder/)
+(https://www.nmmapper.com/sys/tools/subdomainfinder/)
